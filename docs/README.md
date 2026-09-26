@@ -2,7 +2,7 @@
 
 Welcome to the OctoAcme project management documentation set. This repository provides the core operating model for how OctoAcme plans, delivers, communicates, and improves work across projects. The documentation is designed to help new teammates quickly understand the process, while also giving project leads and collaborators a practical reference for roles, decisions, and delivery workflows.
 
-## Overview of OctoAcme’s project management approach
+## Overview of OctoAcme's project management approach
 
 OctoAcme uses a lightweight, cross-functional project management framework built on a few core principles: customer-first delivery, iterative progress, clear ownership, data-informed decision making, and psychological safety. Projects move through a lifecycle that begins with initiation, advances through planning and execution, and closes with release and retrospective activities. The approach focuses on alignment, visibility, and measurable outcomes rather than heavy process overhead.
 
@@ -69,7 +69,7 @@ Quality is treated as part of delivery rather than an afterthought. The docs emp
 
 ## Using these docs with Copilot Spaces
 
-These process documents are designed to function as contextual knowledge for Copilot Spaces. When working in a project or team context, reference the relevant doc by name to ground Copilot in OctoAcme’s operating model, role expectations, and project workflows. This makes the documentation useful both for onboarding and for day-to-day guidance during planning, delivery, and post-release improvement.
+These process documents are designed to function as contextual knowledge for Copilot Spaces. When working in a project or team context, reference the relevant doc by name to ground Copilot in OctoAcme's operating model, role expectations, and project workflows. This makes the documentation useful both for onboarding and for day-to-day guidance during planning, delivery, and post-release improvement.
 
 ## Recommended reading order
 
